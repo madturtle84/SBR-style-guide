@@ -348,10 +348,10 @@ When naming an asset, use these tables to determine the prefix and suffix to use
 | ----------------------- | ---------- | ---------- | -------------------------------- |
 | Aim Offset              | AO_        |            |                                  |
 | Aim Offset 1D           | AO_        |            |                                  |
-| Animation Blueprint     | AnimBP_    |            |                                  |
+| Animation Blueprint     | ABP_       |            |                                  |
 | Animation Composite     | AC_        |            |                                  |
 | Animation Montage       | AM_        |            |                                  |
-| Animation Sequence      | Anim_      |            |                                  |
+| Animation Sequence      | A_         |            |                                  |
 | Blend Space             | BS_        |            |                                  |
 | Blend Space 1D          | BS_        |            |                                  |
 | Level Sequence          | LS_        |            |                                  |
