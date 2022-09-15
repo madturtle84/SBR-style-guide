@@ -359,7 +359,7 @@ When naming an asset, use these tables to determine the prefix and suffix to use
 | Paper Flipbook          | PFB_       |            |                                  |
 | Rig                     | Rig_       |            |                                  |
 | Skeletal Mesh           | SK_        |            |                                  |
-| Skeleton                | SKEL_      |            |                                  |
+| Skeleton                | SKL_       |            |                                  |
 
 <a name="anc-ai"></a>
 <a name="1.2.3"></a>
